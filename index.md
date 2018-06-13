@@ -24,11 +24,9 @@
        </figure>
        <figure class="col-sm-2 text-left">
          <b><p style="font-size:125%;">Girls Who Code Camas</p></b>
-         <ul>
-           <li><b>Grade:</b> Highschool</li>
-           <li>Female Only</li>
-           <li>Non-competitive</li>
-         </ul>
+           <p><b>Grade:</b> Highschool</p>
+           <p>Female Only</p>
+           <p>Non-competitive</p>
        </figure>
        <figure class="col-sm-4">
         <img src="https://desenio.com/bilder/artiklar/zoom/8449_2.jpg" height="300px">
