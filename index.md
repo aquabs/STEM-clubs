@@ -1,4 +1,3 @@
- 
 
 <html>
 <head>
@@ -26,7 +25,7 @@
        <figure class="col-sm-2 text-left">
          <b><p style="font-size:125%;">Girls Who Code Camas</p></b>
          <ul>
-           <li>Grade: Highschool</li>
+           <li><b>Grade:</b> Highschool</li>
            <li>Female Only</li>
            <li>Non-competitive</li>
          </ul>
