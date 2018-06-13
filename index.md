@@ -22,11 +22,9 @@
     <section class="container">
       <div="row">
         <figure class="col-sm-3">
-          <div class="polaroid">
-             <img src="https://3zjc852t4swp1lmezl171oga-wpengine.netdna-ssl.com/wp-content/uploads/2017/01/GWC-logo_2016-on-navy.jpg">
-             <div class="container">
-                <p>Girls Who Code</p>
-             </div>
+          <img src="https://3zjc852t4swp1lmezl171oga-wpengine.netdna-ssl.com/wp-content/uploads/2017/01/GWC-logo_2016-on-navy.jpg" class="image">
+          <div class="overlay">
+           <div class="text">Hello World</div>
            </div>
         </figure>
          <figure class="col-sm-3">
