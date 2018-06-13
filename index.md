@@ -47,23 +47,23 @@
          <img src="represent.png" height="300px">
        </figure>
        <figure class="col-sm-2">
-         <b><p style="font-size:125%;">Girls Who Code Camas</p></b>
+         <b><p style="font-size:125%;">DECA Girls Represent</p></b>
            <p><b>Grade:</b> Highschool</p>
-           <p>Female Only</p>
-           <p>Non-competitive</p>
-         <p><b>Club Type:</b></p>
-         <p>Educational / Advocative</p>
+           <p>Invite Only</p>
+           <p>DECA Project</p>
+         <p><b>Event Type:</b></p>
+         <p>Advocative</p>
        </figure>
        <figure class="col-sm-4">
-        <img src="http://images.fineartamerica.com/images-medium-large-5/butterflies-map-of-the-world-map-michael-tompsett.jpg" height="300px">
+        <img src="https://i.pinimg.com/736x/19/13/6a/19136aaa69402515f457c5349cdb0dc0.jpg" height="300px">
        </figure>
        <figure class="col-sm-2">
-         <b><p style="font-size:125%;">International Human Rights Club</p></b>
-         <p><b>Grade:</b> Highschool</p>
-           <p>Co-ed</p>
+         <b><p style="font-size:125%;">Camas Girls in STEM</p></b>
+         <p><b>Grade:</b> All</p>
+           <p>Highschool: Volunteer Opportunity</p>
            <p>Non-competitive</p>
-         <p><b>Club Type:</b></p>
-         <p>Advocative</p>
+         <p><b>Event Type:</b></p>
+         <p>Advocative/ Informative</p>
        </figure>
        </section>
    <footer class="container">
