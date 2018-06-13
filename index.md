@@ -11,20 +11,22 @@
     <div class="row">
       <nav class="col-sm-12 text-right">
         <a href="https://aquabs.github.io/STEM/"><p>Home</p></a>
-        <a href=" https://aquabs.github.io/STEM-events/. "><p>Events</p></a>
+        <a href=" https://aquabs.github.io/STEM-events/."><p>Events</p></a>
         <a href="https://aquabs.github.io/STEM-news/"><p>News</p></a>
-        <a href=" https://aquabs.github.io/STEM-contacts/. "><p>Contact</p></a>
+        <a href=" https://aquabs.github.io/STEM-contacts/."><p>Contact</p></a>
       </nav>
     </div>
     </header>
  <body>
    <section class="container">
      <div class="row">
-       <nav class="col-sm-5">
+       <nav class="col-sm-4">
          <a href="https://sites.google.com/view/camasgirlswhocode/homeabout"><img src="https://3zjc852t4swp1lmezl171oga-wpengine.netdna-ssl.com/wp-content/uploads/2017/01/GWC-logo_2016-on-navy.jpg" height="400px"></a>
        </nav>
-       <nav class="col-sm-7">
-         <h1 style="font-size:400%;">Girls Who Code</h1>
+       <nav class="col-sm-8">
+         <h1 style="font-size:300%;">Girls Who Code</h1>
+         <p style="font-size:175%;"><b>Open Too:</b> Highschool Females</p>
+         <p style="font-size:175%;"><b>Meetings:</b> Weekly Friday Room 506</p>
        </nav>
      </div>
      </section>
