@@ -19,7 +19,6 @@
     </header>
  <body>
     <section class="container">
-      <div="row">
         <figure class="col-sm-4">
          <img src="https://3zjc852t4swp1lmezl171oga-wpengine.netdna-ssl.com/wp-content/uploads/2017/01/GWC-logo_2016-on-navy.jpg">
        </figure>
