@@ -27,11 +27,17 @@
            <p><b>Grade:</b> Highschool</p>
            <p>Female Only</p>
            <p>Non-competitive</p>
+         <p><b>Club Type:</b>Educational / Advocative</p>
        </figure>
        <figure class="col-sm-4">
-        <img src="https://desenio.com/bilder/artiklar/zoom/8449_2.jpg" height="300px">
+        <img src="http://images.fineartamerica.com/images-medium-large-5/butterflies-map-of-the-world-map-michael-tompsett.jpg" height="300px">
        </figure>
        <figure class="col-sm-2">
+         <b><p style="font-size:125%;">International Human Rights Club</p></b>
+         <p><b>Grade:</b> Highschool</p>
+           <p>Co-ed</p>
+           <p>Non-competitive</p>
+         <p><b>Club Type:</b>Adcovative</p>
        </figure>
        </section>
    <footer class="container">
