@@ -27,7 +27,8 @@
            <p><b>Grade:</b> Highschool</p>
            <p>Female Only</p>
            <p>Non-competitive</p>
-         <p><b>Club Type:</b>Educational / Advocative</p>
+         <p><b>Club Type:</b></p>
+         <p>Educational / Advocative</p>
        </figure>
        <figure class="col-sm-4">
         <img src="http://images.fineartamerica.com/images-medium-large-5/butterflies-map-of-the-world-map-michael-tompsett.jpg" height="300px">
@@ -37,7 +38,8 @@
          <p><b>Grade:</b> Highschool</p>
            <p>Co-ed</p>
            <p>Non-competitive</p>
-         <p><b>Club Type:</b>Adcovative</p>
+         <p><b>Club Type:</b></p>
+         <p>Adcovative</p>
        </figure>
        </section>
    <footer class="container">
