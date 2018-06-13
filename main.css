@@ -35,11 +35,13 @@ body col-sm-3{
    position: relative;
   width: 50%;
 }
-body col-sm-2{
-  margin: 30px;
-    background: #F5F5F5;
-    border: 1px solid #F5F5F5;
-    outline-offset: 15px;
+figure.ex1 {
+    border: 1px solid #F0F0F0;
+    outline-style: solid;
+    outline-color: #F0F0F0;
+    outline-width: thin;
+  background: #F0F0F0;
+  padding:0px;
 }
 .image {
   display: block;
