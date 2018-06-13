@@ -1,4 +1,4 @@
- 
+  
 <html>
 <head>
   <meta charset="utf-8"/>
@@ -20,12 +20,12 @@
  <body>
     <section class="container">
         <figure class="col-sm-4">
-         <img src="https://3zjc852t4swp1lmezl171oga-wpengine.netdna-ssl.com/wp-content/uploads/2017/01/GWC-logo_2016-on-navy.jpg">
+         <img src="https://3zjc852t4swp1lmezl171oga-wpengine.netdna-ssl.com/wp-content/uploads/2017/01/GWC-logo_2016-on-navy.jpg" height="300px">
        </figure>
        <figure class="col-sm-2">
        </figure>
        <figure class="col-sm-4">
-        <img src="https://desenio.com/bilder/artiklar/zoom/8449_2.jpg">
+        <img src="https://desenio.com/bilder/artiklar/zoom/8449_2.jpg" height="300px">
        </figure>
        <figure class="col-sm-2">
        </figure>
