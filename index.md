@@ -18,6 +18,25 @@
       </nav>
     </div>
     </header>
+  <body>
+    <section class="container">
+      <div="row">
+        <figure class="col-sm-3">
+          <div class="polaroid">
+             <img src="rock600x400.jpg" alt="Norway" style="width:100%">
+             <div class="container">
+                <p>The Troll's tongue in Hardanger, Norway</p>
+             </div>
+           </div>
+        </figure>
+         <figure class="col-sm-3">
+        </figure>
+         <figure class="col-sm-3">
+        </figure>
+         <figure class="col-sm-3">
+        </figure>
+      </div>
+    </section>
    <footer class="container">
     <div class="row">
       <p class="col-sm-4">&copy; STEM Camas</p>
