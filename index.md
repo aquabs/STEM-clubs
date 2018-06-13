@@ -25,21 +25,7 @@
           <div class="overlay">
            <div class="text">Hello World</div>
            </div>
-        </figure>
-         <figure class="col-sm-4">
-          <img src="Decag.png" class="image">
-          <div class="overlay">
-           <div class="text">Hello World</div>
-           </div>
-        </figure>
-         <figure class="col-sm-4">
-          <img src="https://blog.amnestyusa.org/wp-content/uploads/2016/05/IDAHOT1.png" class="image">
-          <div class="overlay">
-           <div class="text">Hello World</div>
-           </div>
-        </figure>
-      </div>
-    </section>
+       </figure>
    <footer class="container">
     <div class="row">
       <p class="col-sm-4">&copy; STEM Camas</p>
