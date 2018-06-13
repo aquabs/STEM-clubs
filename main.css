@@ -35,14 +35,6 @@ body col-sm-3{
    position: relative;
   width: 50%;
 }
-figure.ex1 {
-    border: 1px solid #F0F0F0;
-    outline-style: solid;
-    outline-color: #F0F0F0;
-    outline-width: thin;
-  background: #F0F0F0;
-  padding:0px;
-}
 .image {
   display: block;
   width: 100%;
