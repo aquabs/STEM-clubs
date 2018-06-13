@@ -20,25 +20,19 @@
  <body>
     <section class="container">
       <div="row">
-        <figure class="col-sm-3">
+        <figure class="col-sm-4">
           <img src="https://3zjc852t4swp1lmezl171oga-wpengine.netdna-ssl.com/wp-content/uploads/2017/01/GWC-logo_2016-on-navy.jpg" class="image">
           <div class="overlay">
            <div class="text">Hello World</div>
            </div>
         </figure>
-         <figure class="col-sm-3">
+         <figure class="col-sm-4">
           <img src="Decag.png" class="image">
           <div class="overlay">
            <div class="text">Hello World</div>
            </div>
         </figure>
-         <figure class="col-sm-3">
-          <img src="womenspanel_june2018_tw-2.png" class="image">
-          <div class="overlay">
-           <div class="text">Hello World</div>
-           </div>
-        </figure>
-         <figure class="col-sm-3">
+         <figure class="col-sm-4">
           <img src="https://blog.amnestyusa.org/wp-content/uploads/2016/05/IDAHOT1.png" class="image">
           <div class="overlay">
            <div class="text">Hello World</div>
