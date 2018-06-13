@@ -39,7 +39,7 @@
            <p>Co-ed</p>
            <p>Non-competitive</p>
          <p><b>Club Type:</b></p>
-         <p>Adcovative</p>
+         <p>Advocative</p>
        </figure>
        </section>
    <footer class="container">
