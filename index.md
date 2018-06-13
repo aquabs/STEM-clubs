@@ -9,9 +9,8 @@
 <body>
   <header class="container">
     <div class="row">
-      <a href="https://aquabs.github.io/STEM/"><p class="col-sm-4">Home</p></a>
-      <nav class="col-sm-8 text-right">
-        <p>Clubs</p>
+      <nav class="col-sm-12 text-right">
+        <p>Home</p>
         <p>Events</p>
         <p>News</p>
         <p>Contact</p>
