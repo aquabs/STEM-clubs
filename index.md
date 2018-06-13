@@ -22,7 +22,7 @@
         <figure class="col-sm-4">
          <img src="https://3zjc852t4swp1lmezl171oga-wpengine.netdna-ssl.com/wp-content/uploads/2017/01/GWC-logo_2016-on-navy.jpg" height="300px">
        </figure>
-       <figure class="col-sm-2 text-left">
+       <figure class="col-sm-2" class="ex1">
          <b><p style="font-size:125%;">Girls Who Code Camas</p></b>
            <p><b>Grade:</b> Highschool</p>
            <p>Female Only</p>
@@ -33,7 +33,7 @@
        <figure class="col-sm-4">
         <img src="http://images.fineartamerica.com/images-medium-large-5/butterflies-map-of-the-world-map-michael-tompsett.jpg" height="300px">
        </figure>
-       <figure class="col-sm-2">
+       <figure class="col-sm-2" class="ex1">
          <b><p style="font-size:125%;">International Human Rights Club</p></b>
          <p><b>Grade:</b> Highschool</p>
            <p>Co-ed</p>
