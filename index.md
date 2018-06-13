@@ -23,9 +23,9 @@
       <div="row">
         <figure class="col-sm-3">
           <div class="polaroid">
-             <img src="https://3zjc852t4swp1lmezl171oga-wpengine.netdna-ssl.com/wp-content/uploads/2017/01/GWC-logo_2016-on-navy.jpg" alt="Norway" style="width:100%">
+             <img src="https://3zjc852t4swp1lmezl171oga-wpengine.netdna-ssl.com/wp-content/uploads/2017/01/GWC-logo_2016-on-navy.jpg">
              <div class="container">
-                <p>The Troll's tongue in Hardanger, Norway</p>
+                <p>Girls Who Code</p>
              </div>
            </div>
         </figure>
