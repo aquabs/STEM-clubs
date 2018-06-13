@@ -11,61 +11,23 @@
     <div class="row">
       <nav class="col-sm-12 text-right">
         <a href="https://aquabs.github.io/STEM/"><p>Home</p></a>
-        <p>Events</p>
-        <p>News</p>
-        <p>Contact</p>
+        <a href=" https://aquabs.github.io/STEM-events/. "><p>Events</p></a>
+        <a href="https://aquabs.github.io/STEM-news/"><p>News</p></a>
+        <a href=" https://aquabs.github.io/STEM-contacts/. "><p>Contact</p></a>
       </nav>
     </div>
     </header>
  <body>
-    <section class="container">
-        <figure class="col-sm-4">
-         <img src="https://3zjc852t4swp1lmezl171oga-wpengine.netdna-ssl.com/wp-content/uploads/2017/01/GWC-logo_2016-on-navy.jpg" height="300px">
-       </figure>
-       <figure class="col-sm-2">
-         <b><p style="font-size:125%;">Girls Who Code Camas</p></b>
-           <p><b>Grade:</b> Highschool</p>
-           <p>Female Only</p>
-           <p>Non-competitive</p>
-         <p><b>Club Type:</b></p>
-         <p>Educational / Advocative</p>
-       </figure>
-       <figure class="col-sm-4">
-        <img src="http://images.fineartamerica.com/images-medium-large-5/butterflies-map-of-the-world-map-michael-tompsett.jpg" height="300px">
-       </figure>
-       <figure class="col-sm-2">
-         <b><p style="font-size:125%;">International Human Rights Club</p></b>
-         <p><b>Grade:</b> Highschool</p>
-           <p>Co-ed</p>
-           <p>Non-competitive</p>
-         <p><b>Club Type:</b></p>
-         <p>Advocative</p>
-       </figure>
-       </section>
    <section class="container">
-        <figure class="col-sm-4">
-         <img src="represent.png" height="300px">
-       </figure>
-       <figure class="col-sm-2">
-         <b><p style="font-size:125%;">DECA Girls Represent</p></b>
-           <p><b>Grade:</b> Highschool</p>
-           <p>Invite Only</p>
-           <p>DECA Project</p>
-         <p><b>Event Type:</b></p>
-         <p>Advocative</p>
-       </figure>
-       <figure class="col-sm-4">
-        <img src="https://i.pinimg.com/736x/19/13/6a/19136aaa69402515f457c5349cdb0dc0.jpg" height="300px">
-       </figure>
-       <figure class="col-sm-2">
-         <b><p style="font-size:125%;">Camas Girls in STEM</p></b>
-         <p><b>Grade:</b> All</p>
-           <p>Highschool: Volunteer Opportunity</p>
-           <p>Non-competitive</p>
-         <p><b>Event Type:</b></p>
-         <p>Advocative/ Informative</p>
-       </figure>
-       </section>
+     <div class="row">
+       <nav class="col-sm-3">
+         <a href="https://sites.google.com/view/camasgirlswhocode/homeabout"><img src="https://3zjc852t4swp1lmezl171oga-wpengine.netdna-ssl.com/wp-content/uploads/2017/01/GWC-logo_2016-on-navy.jpg" height="400px"></a>
+       </nav>
+       <nav class="col-sm-9">
+         <h1 style="font-size:400%;">Girls Who Code</h1>
+       </nav>
+     </div>
+     </section>
    <footer class="container">
     <div class="row">
       <p class="col-sm-4">&copy; STEM Camas</p>
