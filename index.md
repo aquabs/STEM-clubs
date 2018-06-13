@@ -21,11 +21,17 @@
     <section class="container">
       <div="row">
         <figure class="col-sm-4">
-          <img src="https://3zjc852t4swp1lmezl171oga-wpengine.netdna-ssl.com/wp-content/uploads/2017/01/GWC-logo_2016-on-navy.jpg" class="image">
-          <div class="overlay">
-           <div class="text">Hello World</div>
-           </div>
+         <img src="https://3zjc852t4swp1lmezl171oga-wpengine.netdna-ssl.com/wp-content/uploads/2017/01/GWC-logo_2016-on-navy.jpg">
        </figure>
+       <figure class="col-sm-2">
+       </figure>
+       <figure class="col-sm-4">
+        <img src="Decag.png">
+       </figure>
+       <figure class="col-sm-2">
+       </figure>
+     </div>
+       </section>
    <footer class="container">
     <div class="row">
       <p class="col-sm-4">&copy; STEM Camas</p>
