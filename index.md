@@ -29,7 +29,6 @@
        </figure>
        <figure class="col-sm-2">
        </figure>
-     </div>
        </section>
    <footer class="container">
     <div class="row">
