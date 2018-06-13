@@ -35,6 +35,12 @@ body col-sm-3{
    position: relative;
   width: 50%;
 }
+body col-sm-2{
+  margin: 30px;
+    background: #F5F5F5;
+    border: 1px solid #F5F5F5;
+    outline-offset: 15px;
+}
 .image {
   display: block;
   width: 100%;
