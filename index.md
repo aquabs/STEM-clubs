@@ -1,3 +1,4 @@
+
 <html>
 <head>
   <meta charset="utf-8"/>
@@ -17,3 +18,12 @@
       </nav>
     </div>
     </header>
+   <footer class="container">
+    <div class="row">
+      <p class="col-sm-4">&copy; STEM Camas</p>
+      <ul class="col-sm-8">
+        <li class="col-sm-1">  <a href="https://www.instagram.com/girlswhocode/"><img src="https://s3.amazonaws.com/codecademy-content/projects/make-a-website/lesson-4/instagram.svg"></a> </li>
+        <li class="col-sm-1"> <a href="https://sites.google.com/view/camasgirlswhocode/homeabout"><img src="https://s3.amazonaws.com/codecademy-content/projects/make-a-website/lesson-4/medium.svg"></a> </li>
+      </ul>
+    </div>
+  </footer>
