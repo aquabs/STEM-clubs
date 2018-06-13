@@ -1,4 +1,4 @@
-
+ 
 <html>
 <head>
   <meta charset="utf-8"/>
@@ -18,7 +18,6 @@
       </nav>
     </div>
     </header>
-  <body>
     <section class="container">
       <div="row">
         <figure class="col-sm-3">
