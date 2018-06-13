@@ -18,6 +18,7 @@
       </nav>
     </div>
     </header>
+ <body>
     <section class="container">
       <div="row">
         <figure class="col-sm-3">
