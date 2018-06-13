@@ -26,7 +26,7 @@
        <figure class="col-sm-2">
        </figure>
        <figure class="col-sm-4">
-        <img src="https://desenio.de/bilder/artiklar/zoom/8453_1.jpg">
+        <img src="https://desenio.com/bilder/artiklar/zoom/8449_2.jpg">
        </figure>
        <figure class="col-sm-2">
        </figure>
