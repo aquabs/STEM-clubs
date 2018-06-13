@@ -1,4 +1,4 @@
-
+ 
 
 <html>
 <head>
@@ -23,8 +23,8 @@
         <figure class="col-sm-4">
          <img src="https://3zjc852t4swp1lmezl171oga-wpengine.netdna-ssl.com/wp-content/uploads/2017/01/GWC-logo_2016-on-navy.jpg" height="300px">
        </figure>
-       <figure class="col-sm-2">
-         <p>Girls Who Code Camas</p>
+       <figure class="col-sm-2 text-left">
+         <b><p style="font-size:125%;">Girls Who Code Camas</p></b>
          <ul>
            <li>Grade: Highschool</li>
            <li>Female Only</li>
