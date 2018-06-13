@@ -42,6 +42,30 @@
          <p>Advocative</p>
        </figure>
        </section>
+   <section class="container">
+       <figure class="col-sm-2">
+         <b><p style="font-size:125%;">Girls Who Code Camas</p></b>
+           <p><b>Grade:</b> Highschool</p>
+           <p>Female Only</p>
+           <p>Non-competitive</p>
+         <p><b>Club Type:</b></p>
+         <p>Educational / Advocative</p>
+       </figure>
+     <figure class="col-sm-4">
+        <img src="represent.png " height="300px">
+       </figure>
+       <figure class="col-sm-2">
+         <b><p style="font-size:125%;">International Human Rights Club</p></b>
+         <p><b>Grade:</b> Highschool</p>
+           <p>Co-ed</p>
+           <p>Non-competitive</p>
+         <p><b>Club Type:</b></p>
+         <p>Advocative</p>
+       </figure>
+     <figure class="col-sm-4">
+        <img src="represent.png " height="300px">
+       </figure>
+       </section>
    <footer class="container">
     <div class="row">
       <p class="col-sm-4">&copy; STEM Camas</p>
