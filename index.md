@@ -20,10 +20,10 @@
  <body>
    <section class="container">
      <div class="row">
-       <nav class="col-sm-3">
+       <nav class="col-sm-5">
          <a href="https://sites.google.com/view/camasgirlswhocode/homeabout"><img src="https://3zjc852t4swp1lmezl171oga-wpengine.netdna-ssl.com/wp-content/uploads/2017/01/GWC-logo_2016-on-navy.jpg" height="400px"></a>
        </nav>
-       <nav class="col-sm-9">
+       <nav class="col-sm-7">
          <h1 style="font-size:400%;">Girls Who Code</h1>
        </nav>
      </div>
