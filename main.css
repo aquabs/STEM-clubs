@@ -52,7 +52,9 @@ body col-sm-3{
   height:0;
   transition: .5s ease;
 }
-
+body section{
+  padding: 0px 0px 25px;
+}
 .col-sm-3:hover .overlay {
   bottom: 0;
   height: 100%;
