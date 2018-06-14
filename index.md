@@ -48,14 +48,37 @@
          <h1 style="font-size:300%;">DECA Girls Represent</h1>
          <p style="font-size:115%;"><i> Campaign started by Camas DECA to advocate for female representation in nontraditional feilds</i></p>
          <p><b>Open Too:</b> Although the maintnance and planning is limited to selected individuals, the events hosted is open to all</p>
-         <p> Girls who code is a national nonprofit organization with the mission to close the gender gap in technology. The Camas Highschool Chapter began the 2017-2018 school year, led by Monica Chang. The club focuses both on the comprehensive and application of coding, while creating a sisterhood to support one another.</p>
+         <p> </p>
        </nav>
        <nav class="col-sm-4">
          <img src="represent.png" height="400px">
        </nav>
            </div>
          </section>
-     
+      <section class="container">
+     <div class="row">
+       <nav class="col-sm-4">
+         <img src="international-human-rights.jpg " height="400px">
+       </nav>
+       <nav class="col-sm-8">
+         <h1 style="font-size:300%;">International Human Rights Club</h1>
+         <p style="font-size:115%;"><i> Closing the gender gap in technology one girls at a time</i></p>
+         <p><b>Open Too:</b> Highschool Females</p>
+         <p><b>Meetings:</b> Weekly Friday Room 506</p>
+         <p> Girls who code is a national nonprofit organization with the mission to close the gender gap in technology. The Camas Highschool Chapter began the 2017-2018 school year, led by Monica Chang. The club focuses both on the comprehensive and application of coding, while creating a sisterhood to support one another.</p>
+         <section class="container">
+     <div class="row">
+       <nav class="col-sm-3">
+         <a href="https://sites.google.com/view/camasgirlswhocode/homeabout"><button class="button button2">High School Website</button></a>
+       </nav>
+       <nav class="col-sm-3">
+         <a href="https://girlswhocode.com/about-us/"><button class="button button2">Organization Website</button></a>
+       </nav>
+           </div>
+         </section>
+       </nav>
+     </div>
+     </section>
      
      
    <footer class="container">
