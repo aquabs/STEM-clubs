@@ -31,7 +31,7 @@
          <section class="container">
      <div class="row">
        <nav class="col-sm-3">
-         <a href="https://sites.google.com/view/camasgirlswhocode/homeabout"><button class="button button2">Club Website</button></a>
+         <a href="https://sites.google.com/view/camasgirlswhocode/homeabout"><button class="button button2">High School Website</button></a>
        </nav>
        <nav class="col-sm-3">
          <a href="https://girlswhocode.com/about-us/"><button class="button button2">Organization Website</button></a>
