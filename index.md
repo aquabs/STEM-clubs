@@ -28,8 +28,16 @@
          <p><b>Open Too:</b> Highschool Females</p>
          <p><b>Meetings:</b> Weekly Friday Room 506</p>
          <p> Girls who code is a national nonprofit organization with the mission to close the gender gap in technology. The Camas Highschool Chapter began the 2017-2018 school year, led by Monica Chang. The club focuses both on the comprehensive and application of coding, while creating a sisterhood to support one another.</p>
+         <section class="container">
+     <div class="row">
+       <nav class="col-sm-3">
          <a href="https://sites.google.com/view/camasgirlswhocode/homeabout"><button class="button button2">Club Website</button></a>
-         <p><b>Organization Website: </b> https://girlswhocode.com/about-us/</p>
+       </nav>
+       <nav class="col-sm-3">
+         <a href="https://girlswhocode.com/about-us/"><button class="button button2">Organization Website</button></a>
+       </nav>
+           </div>
+         </section>
        </nav>
      </div>
      </section>
