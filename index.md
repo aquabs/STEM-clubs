@@ -41,6 +41,32 @@
        </nav>
      </div>
      </section>
+      
+   <section class="container">
+     <div class="row">
+       <nav class="col-sm-8">
+         <h1 style="font-size:300%;">DECA Girls Represent</h1>
+         <p style="font-size:115%;"><i> Closing the gender gap in technology one girls at a time</i></p>
+         <p><b>Open Too:</b></p>
+         <ul>
+         <li>Organization: Invite only</li>
+         <li>Participation: Highschool Females</li>
+         </ul>
+         <p> Campaign started by Camas DECA to advocate for female representation in nontraditional occupations</p>
+         <section class="container">
+     <div class="row">
+       <a href="https://twitter.com/camasgirlsrep"><img src="http://www.interprint-services.co.uk/wp-content/uploads/2016/11/Icon_Twitter.svg_.png" height="50px"></a>
+       <nav class="col-sm-4">
+         <img src="represent.png" height="400px">
+       </nav>
+           </div>
+         </section>
+       </nav>
+     </div>
+     </section>
+     
+     
+     
    <footer class="container">
     <div class="row">
       <p class="col-sm-4">&copy; STEM Camas</p>
