@@ -53,17 +53,13 @@
          <li>Participation: Highschool Females</li>
          </ul>
          <p> Campaign started by Camas DECA to advocate for female representation in nontraditional occupations</p>
-         <section class="container">
-     <div class="row">
        <a href="https://twitter.com/camasgirlsrep"><img src="http://www.interprint-services.co.uk/wp-content/uploads/2016/11/Icon_Twitter.svg_.png" height="50px"></a>
+       </nav>
        <nav class="col-sm-4">
          <img src="represent.png" height="400px">
        </nav>
            </div>
          </section>
-       </nav>
-     </div>
-     </section>
      
      
      
