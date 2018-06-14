@@ -52,6 +52,7 @@
          <section class="container">
            <div class="row">
              <class="col-sm-12 text-center">
+               <a href="https://twitter.com/camasgirlsrep"><image src="http://chittagongit.com//images/black-and-white-facebook-icon/black-and-white-facebook-icon-18.jpg" height="30px" class="button2"></a>
              </class>
            </div>
          </section>
@@ -73,3 +74,8 @@
       </ul>
     </div>
   </footer>
+
+
+
+
+ 
