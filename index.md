@@ -45,18 +45,14 @@
    <section class="container">
      <div class="row">
        <nav class="col-sm-8 text-right">
-         <h1 style="font-size:300%;">Girls Who Code</h1>
-         <p style="font-size:115%;"><i> Closing the gender gap in technology one girls at a time</i></p>
-         <p><b>Open Too:</b> Highschool Females</p>
-         <p><b>Meetings:</b> Weekly Friday Room 506</p>
+         <h1 style="font-size:300%;">DECA Girls Represent</h1>
+         <p style="font-size:115%;"><i> Campaign started by Camas DECA to advocate for female representation in nontraditional feilds</i></p>
+         <p><b>Open Too:</b> Although the maintnance and planning is limited to selected individuals, the events hosted is open to all</p>
          <p> Girls who code is a national nonprofit organization with the mission to close the gender gap in technology. The Camas Highschool Chapter began the 2017-2018 school year, led by Monica Chang. The club focuses both on the comprehensive and application of coding, while creating a sisterhood to support one another.</p>
          <section class="container">
      <div class="row">
-       <nav class="col-sm-3">
-         <a href="https://sites.google.com/view/camasgirlswhocode/homeabout"><button class="button button2">High School Website</button></a>
-       </nav>
-       <nav class="col-sm-3">
-         <a href="https://girlswhocode.com/about-us/"><button class="button button2">Organization Website</button></a>
+       <nav class="col-sm-12 text-center">
+         <a href="https://twitter.com/camasgirlsrep"><image src="http://chittagongit.com//images/black-and-white-facebook-icon/black-and-white-facebook-icon-18.jpg" class="button2"></a>
        </nav>
            </div>
          </section>
