@@ -55,8 +55,8 @@
          <a href="https://twitter.com/camasgirlsrep"><image src="http://chittagongit.com//images/black-and-white-facebook-icon/black-and-white-facebook-icon-18.jpg" height="30px" class="button2"></a>
        </nav>
            </div>
-         </section>
-       </nav> --->
+         </section> --->
+       </nav>
        <nav class="col-sm-4">
          <img src="represent.png" height="400px">
        </nav>
