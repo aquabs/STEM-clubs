@@ -44,7 +44,7 @@
       
    <section class="container">
      <div class="row">
-       <nav class="col-sm-8">
+       <nav class="col-sm-8 text-right">
          <h1 style="font-size:300%;">Girls Who Code</h1>
          <p style="font-size:115%;"><i> Closing the gender gap in technology one girls at a time</i></p>
          <p><b>Open Too:</b> Highschool Females</p>
