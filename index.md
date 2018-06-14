@@ -47,7 +47,8 @@
        <nav class="col-sm-8" style="text-align:right;">
          <h1 style="font-size:300%;">DECA Girls Represent</h1>
          <p style="font-size:115%;"><i> Closing the gender gap in technology one girls at a time</i></p>
-         <p><b style="text-size:125%;">Open Too:        </b><b>Organization:</b> Invite only            <b>Participation:</b> Highschool Females</p>
+         <p><b style="text-size:125%;">Open Too:</b
+         <p><b>Organization:</b> Invite only            <b>Participation:</b> Highschool Females</p>
          <p> Campaign started by Camas DECA to advocate for female representation in nontraditional occupations</p>
        <a href="https://twitter.com/camasgirlsrep"><img src="http://www.interprint-services.co.uk/wp-content/uploads/2016/11/Icon_Twitter.svg_.png" height="50px"></a>
        </nav>
