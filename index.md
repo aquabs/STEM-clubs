@@ -49,14 +49,14 @@
          <p style="font-size:115%;"><i> Campaign started by Camas DECA to advocate for female representation in nontraditional feilds</i></p>
          <p><b>Open Too:</b> Although the maintnance and planning is limited to selected individuals, the events hosted is open to all</p>
          <p> Girls who code is a national nonprofit organization with the mission to close the gender gap in technology. The Camas Highschool Chapter began the 2017-2018 school year, led by Monica Chang. The club focuses both on the comprehensive and application of coding, while creating a sisterhood to support one another.</p>
-         <section class="container">
+        <!--- <section class="container">
      <div class="row">
        <nav class="col-sm-12 text-center">
          <a href="https://twitter.com/camasgirlsrep"><image src="http://chittagongit.com//images/black-and-white-facebook-icon/black-and-white-facebook-icon-18.jpg" height="30px" class="button2"></a>
        </nav>
            </div>
          </section>
-       </nav>
+       </nav> --->
        <nav class="col-sm-4">
          <img src="represent.png" height="400px">
        </nav>
