@@ -44,9 +44,6 @@
       
    <section class="container">
      <div class="row">
-        <nav class="col-sm-4">
-         <img src="represent.png" height="400px">
-       </nav>
        <nav class="col-sm-8">
          <h1 style="font-size:300%;">Girls Who Code</h1>
          <p style="font-size:115%;"><i> Closing the gender gap in technology one girls at a time</i></p>
@@ -63,6 +60,9 @@
        </nav>
            </div>
          </section>
+       </nav>
+       <nav class="col-sm-4">
+         <img src="represent.png" height="400px">
        </nav>
            </div>
          </section>
