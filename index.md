@@ -42,15 +42,42 @@
       
    <section class="container">
      <div class="row">
-       <nav class="col-sm-8 text-right">
-         <h1 style="font-size:300%;">DECA Girls Represent</h1>
+       <nav class="col-sm-8 text-right">         <h1 style="font-size:300%;">DECA Girls Represent</h1>
          <p style="font-size:115%;"><i> Campaign started by Camas DECA to advocate for female representation in nontraditional feilds</i></p>
          <p><b>Open To:</b> Although the maintnance and planning is limited to selected individuals,</p>
          <p>the events hosted are open to all</p>
-         <p> </p>
+
+<p> </p>
        </nav>
        <nav class="col-sm-4">
          <img src="represent.png" height="400px">
+       </nav>
+           </div
+         </section>
+      <section class="container">
+     <div class="row">
+       <nav class="col-sm-4">
+         <img src="international-human-rights.jpg " height="400px">
+       </nav>
+       <nav class="col-sm-8">
+         <h1 style="font-size:300%;">International Human Rights Club</h1>
+         <p style="font-size:115%;"><i>Implementing international human rights standards to promote civil society and reinforce the rule of law.</i></p>
+         <p><b>Open To:</b> Highschoolers</p>
+         <p><b>Meetings:</b> 2:30-3:00 2cnd & 4th Thursday Room 404</p>
+         <p></p>
+       </nav>
+     </div>
+     </section>
+     <section class="container">
+     <div class="row">
+       <nav class="col-sm-8 text-right">
+         <h1 style="font-size:300%;">STEM Girls</h1>
+         <p style="font-size:115%;"><i> Yearly Conference</i></p>
+         <p><b>Open To:</b> Participation is open to grades 4-8. Volunteering is open to Highschool students.</p>
+        <p> </p>
+       </nav>
+       <nav class="col-sm-4">
+         <img src="https://www.cbronline.com/wp-content/uploads/2017/03/Girls-in-STEM-770x513.png" height="400px">
        </nav>
            </div>
          </section>
@@ -64,7 +91,8 @@
          <p style="font-size:115%;"><i>Implementing international human rights standards to promote civil society and reinforce the rule of law.</i></p>
          <p><b>Open To:</b> Highschoolers</p>
          <p><b>Meetings:</b> 2:30-3:00 2cnd & 4th Thursday Room 404</p>
-         <p></p>
+         <p>our ultimate objective is to contribute to solutions for the provision of equality and justice for people around the world. Becoming educated on international human rights is the first step in reaching this goal! All are welcome, and we encourage all to become involved with leadership and discussion! Our parent organization is Girls Learn International. GLI is focused on imporving girls' access to education globally.
+</p>
        </nav>
      </div>
      </section>
