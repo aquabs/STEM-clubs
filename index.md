@@ -1,4 +1,4 @@
-<html>
+<<html>
 <head>
   <meta charset="utf-8"/>
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
@@ -8,7 +8,7 @@
 <body>
   <header class="container">
     <div class="row">
-      <nav class="col-sm-12 text-right">
+<      <nav class="col-sm-12 text-right">
         <a href="https://aquabs.github.io/STEM/"><p>Home</p></a>
         <a href=" https://aquabs.github.io/STEM-events/."><p>Events</p></a>
         <a href="https://aquabs.github.io/STEM-news/"><p>News</p></a>
@@ -24,13 +24,11 @@
        </nav>
        <nav class="col-sm-8">
          <h1 style="font-size:300%;">Girls Who Code</h1>
-         <p style="font-size:115%;"><i> Closing the gender gap in technology one girls at a time</i></p>
-         <p><b>Open Too:</b> Highschool Females</p>
-         <p><b>Meetings:</b> Weekly Friday Room 506</p>
+    <p style="font-size:115%;"><i> Closing the gender gap in technology one girls at a time</i></p>
+         <p><b>Open To:</b> Highschool Females</p>         <p><b>Meetings:</b> Weekly Friday Room 506</p>
          <p> Girls who code is a national nonprofit organization with the mission to close the gender gap in technology. The Camas Highschool Chapter began the 2017-2018 school year, led by Monica Chang. The club focuses both on the comprehensive and application of coding, while creating a sisterhood to support one another.</p>
          <section class="container">
-     <div class="row">
-       <nav class="col-sm-3">
+     <div class="row">       <nav class="col-sm-3">
          <a href="https://sites.google.com/view/camasgirlswhocode/homeabout"><button class="button button2">High School Website</button></a>
        </nav>
        <nav class="col-sm-3">
@@ -47,7 +45,8 @@
        <nav class="col-sm-8 text-right">
          <h1 style="font-size:300%;">DECA Girls Represent</h1>
          <p style="font-size:115%;"><i> Campaign started by Camas DECA to advocate for female representation in nontraditional feilds</i></p>
-         <p><b>Open Too:</b> Although the maintnance and planning is limited to selected individuals, the events hosted is open to all</p>
+         <p><b>Open To:</b> Although the maintnance and planning is limited to selected individuals,</p>
+         <p>the events hosted are open to all</p>
          <p> </p>
        </nav>
        <nav class="col-sm-4">
@@ -63,7 +62,7 @@
        <nav class="col-sm-8">
          <h1 style="font-size:300%;">International Human Rights Club</h1>
          <p style="font-size:115%;"><i>Implementing international human rights standards to promote civil society and reinforce the rule of law.</i></p>
-         <p><b>Open Too:</b> Highschoolers</p>
+         <p><b>Open To:</b> Highschoolers</p>
          <p><b>Meetings:</b> 2:30-3:00 2cnd & 4th Thursday Room 404</p>
          <p></p>
        </nav>
