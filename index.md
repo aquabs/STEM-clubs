@@ -47,7 +47,7 @@
          <p><b>Open To:</b> Although the maintnance and planning is limited to selected individuals,</p>
          <p>the events hosted are open to all</p>
 
-<p> </p>
+<p>The DECA Girls Represent campaign aims to encourage girls to pursue careers that usually lack female representation. The Speaker Series delivers unique insight for girls by hosting informative and inspiring talks from female professionals in underrepresented fields. </p>
        </nav>
        <nav class="col-sm-4">
          <img src="represent.png" height="400px">
