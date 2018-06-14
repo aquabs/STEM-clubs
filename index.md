@@ -1,4 +1,4 @@
-<<html>
+<html>
 <head>
   <meta charset="utf-8"/>
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
@@ -8,7 +8,7 @@
 <body>
   <header class="container">
     <div class="row">
-<      <nav class="col-sm-12 text-right">
+    <nav class="col-sm-12 text-right">
         <a href="https://aquabs.github.io/STEM/"><p>Home</p></a>
         <a href=" https://aquabs.github.io/STEM-events/."><p>Events</p></a>
         <a href="https://aquabs.github.io/STEM-news/"><p>News</p></a>
@@ -71,7 +71,7 @@
      <section class="container">
      <div class="row">
        <nav class="col-sm-8 text-right">
-         <h1 style="font-size:300%;">STEM Girls</h1>
+         <h1 style="font-size:300%;">Girls in STEM Conference</h1>
          <p style="font-size:115%;"><i> Yearly Conference</i></p>
          <p><b>Open To:</b> Participation is open to grades 4-8. Volunteering is open to Highschool students.</p>
         <p> </p>
